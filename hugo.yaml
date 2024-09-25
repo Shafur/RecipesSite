@@ -1,6 +1,6 @@
 baseURL:
 languageCode: en-us
-title: Shafer Family Recipe Site
+title: Our Family Recipe Site
 module:
   imports:
     - path: github.com/imfing/hextra
@@ -8,8 +8,8 @@ url: ""
 enableInlineShortcodes: true
 menu:
   main:
-    - name: Laney
-      pageRef: /laney
+    - name: MawMaw
+      pageRef: /mawmaw
       weight: 1
     - name: Shafer
       pageRef: /shafer

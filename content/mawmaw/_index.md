@@ -1,5 +1,5 @@
 ---
-title: Laney
+title: MawMaws Cookbook
 cascade:
     type: docs
 ---
