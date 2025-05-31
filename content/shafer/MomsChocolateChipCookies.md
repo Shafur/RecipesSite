@@ -30,5 +30,5 @@
 ### Additional Notes
 
 - Mom uses her homemade vanilla and good quality chocolate chips. She also uses good quality salt and unbleached organic flour.
-- Don't over bake them, and quickly put them onto the county to cool.
+- Don't over bake them, and quickly put them onto the counter to cool.
 - Keep them in an airtight container when fully cooled.
