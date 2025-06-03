@@ -1,11 +1,11 @@
 ---
-title: Pop’s Potato Salad  
+title: Pop’s Potato Salad
 cascade:
     type: docs
 ---
 
 
-### Pop’s Potato Salad  
+### Ingredients 
   
 - 5 lb. bag red potatoes- diced  
 - ½ onion- diced  
@@ -17,6 +17,8 @@ cascade:
 - Salt & pepper to taste  
 - 3 boiled eggs  
   
+### Instructions
+
 1. Cook potatoes in salted water  
 2. Bring to hard boil- cover & cool  
    - (if potatoes start getting soft- pour water off)  
