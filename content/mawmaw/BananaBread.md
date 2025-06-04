@@ -2,6 +2,8 @@
 title: Banana Bread
 cascade:
     type: docs
+tags: ["bread"]
+categories: ["sides"]
 ---
 
 ### Ingredients

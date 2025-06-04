@@ -2,6 +2,7 @@
 title: Baked Beans
 cascade:
     type: docs
+categories: ["sides"]
 ---
 
 

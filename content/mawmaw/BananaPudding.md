@@ -2,6 +2,7 @@
 title: Banana Pudding
 cascade:
     type: docs
+categories: ["desert"]
 ---
 
 ### Ingredients

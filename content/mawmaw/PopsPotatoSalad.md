@@ -2,6 +2,7 @@
 title: Pop’s Potato Salad
 cascade:
     type: docs
+categories: ["sides"]
 ---
 
 

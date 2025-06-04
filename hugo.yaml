@@ -6,6 +6,9 @@ module:
     - path: github.com/imfing/hextra
 url: ""
 enableInlineShortcodes: true
+taxonomies:
+  category: categories
+  tag: tags
 menu:
   main:
     - name: MawMaw
