@@ -1,4 +1,4 @@
-# Hannah's Pico De Gallo
+# Pico De Gallo
 
 ### Ingredients
 - 1 cup finely chopped white onion (about 1 small onion)

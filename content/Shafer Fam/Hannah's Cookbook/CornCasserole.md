@@ -1,4 +1,4 @@
-# Hannah's Corn Casserole
+# Corn Casserole
 
 ### Ingredients
 
@@ -10,7 +10,7 @@
 - Sprinkle of sugar (measure with your heart)
 - Sprinkle of shredded cheddar cheese (measure with your heart)
 
-### Directions
+### Instructions
 
 - Mix all ingredients in a large bowl.
 - Transfer the mixture to a greased 8 x 8 baking pan. Top with extra sprinkle of cheese.

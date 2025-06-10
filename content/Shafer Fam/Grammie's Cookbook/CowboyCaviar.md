@@ -1,4 +1,4 @@
-# Shari's Cowboy Caviar
+# Cowboy Caviar
 
 ### Ingredients
 

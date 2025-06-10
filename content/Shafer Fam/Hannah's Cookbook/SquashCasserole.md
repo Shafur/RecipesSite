@@ -1,4 +1,8 @@
-# Hannah's Squash Casserole
+# Squash Casserole
+
+### Ingredients
+
+- In processing...
 
 ### Instructions
 
