@@ -1,4 +1,4 @@
-# Hannah's Baked Mac n' Cheese 
+# Baked Mac n' Cheese 
 (Wilson's Own Mac n' Cheese Food Network)
 
 ### Ingredients
@@ -14,7 +14,7 @@
 - 16 ounces shredded sharp cheddar cheese
 - Dust with paprika
 
-### Directions
+### Instructions
 
 - Preheat oven to *325
 - Bring water, salt, and oil to boil over high heat. Add pasta, bring back to a boil and cook until al dente, 8 to 9 minutes. Drain pasta and rinse with cold water to stop the cooking process.

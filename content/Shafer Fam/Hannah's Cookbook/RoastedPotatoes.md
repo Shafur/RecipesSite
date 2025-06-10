@@ -1,4 +1,4 @@
-# Hannah's Roasted Potatoes
+# Roasted Potatoes
 
 ### Ingredients
 
@@ -9,7 +9,7 @@
 - 1/2 tsp. salt
 - 1/2 tsp. pepper
 
-### Directions
+### Instructions
 
 - Pre-heat oven to *450. Line baking sheet w/ parchment paper.
 - Combine seasonings and oil in large bowl.

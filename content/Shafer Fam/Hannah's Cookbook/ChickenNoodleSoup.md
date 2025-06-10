@@ -1,4 +1,4 @@
-# Hannah's Chicken Noodle Soup
+# Chicken Noodle Soup
 
 ### Ingredients
 - 1/2 Tbsp. butter
