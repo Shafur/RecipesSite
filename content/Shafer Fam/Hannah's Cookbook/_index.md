@@ -1,5 +1,5 @@
 ---
-title: Shafer
+title: Hannah's Cookbook
 cascade:
     type: docs
 ---
